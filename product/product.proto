@@ -96,4 +96,3 @@ message Product{
   int64 typeid = 5;
 }
 
-message Test{}
